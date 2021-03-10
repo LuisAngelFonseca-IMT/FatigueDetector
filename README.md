@@ -2,7 +2,7 @@
 Python script able to detect eyes blink.
 
 <a href="https://apps.apple.com/app/id1452689527" target="_blank">
-<img src="https://pyimagesearch.com/wp-content/uploads/2017/04/blink_detection_plot.jpg" width="1000"></a>
+<img src="https://pyimagesearch.com/wp-content/uploads/2017/04/blink_detection_plot.jpg" width="800"></a>
 &nbsp
 
 # Installation
