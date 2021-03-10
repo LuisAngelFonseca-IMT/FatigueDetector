@@ -1,0 +1,9 @@
+# This file may be used to create an environment:
+# To create enviroment:
+# $ conda create --name <env>
+# Install all packages:
+# $ conda install -c conda-forge --file requirements.txt
+# platform: win-64
+dlib==19.21.1
+imutils==0.5.4
+libopencv==4.5.1
